@@ -84,8 +84,13 @@
         margin: auto
     }
 
+    td:nth-child(2),
+    td:nth-child(7) {
+        word-break: break-all;
+        text-align: left
+    }
 
-  
+
 }
 
 /*SMALL PHONES TO SMALL TABLETS (IPAD-PHONES)-481 TO 767PX PIXELS*/
