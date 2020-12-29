@@ -357,7 +357,7 @@ h6 {}
 
 }
 
-.sidenav a {
+.sidenav li {
     padding: 18px 18px 18px 32px;
     text-decoration: none;
     font-size: 15px;
@@ -369,7 +369,7 @@ h6 {}
     font-family: saira-regular;
 }
 
-.sidenav a:hover {}
+.sidenav li:hover {}
 
 .sidenav .closebtn {
     position: absolute;
